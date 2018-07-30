@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "461186195459",
+    "firebase_url": "https://theimsdiary.firebaseio.com",
+    "project_id": "theimsdiary",
+    "storage_bucket": "theimsdiary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461186195459:android:d26837453c94a4ef",
+        "android_client_info": {
+          "package_name": "com.example.aviralgarg0996.theimsdiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461186195459-3q5u9pnt6fm7lld0qp29a35hc0vht1f2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aviralgarg0996.theimsdiary",
+            "certificate_hash": "29e0fcb664308d8a32c1232c18bccaa02be34250"
+          }
+        },
+        {
+          "client_id": "461186195459-09cpborsp8gu493h7ngj2e96bl8ttu97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfmcY8EHQheTSKVxovO-29vJa4qZZzH6E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461186195459-09cpborsp8gu493h7ngj2e96bl8ttu97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461186195459:android:514f98e3b90b9785",
+        "android_client_info": {
+          "package_name": "com.firestoredemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461186195459-09cpborsp8gu493h7ngj2e96bl8ttu97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfmcY8EHQheTSKVxovO-29vJa4qZZzH6E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461186195459:android:dc35db6599497d8c",
+        "android_client_info": {
+          "package_name": "com.updatelocationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461186195459-09cpborsp8gu493h7ngj2e96bl8ttu97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfmcY8EHQheTSKVxovO-29vJa4qZZzH6E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
